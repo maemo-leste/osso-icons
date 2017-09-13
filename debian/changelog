@@ -1,0 +1,352 @@
+osso-icons (2.5.0+0m5) unstable; urgency=low
+
+  * This entry has been added by BIFH queue processor
+    Suffix +0m5 added to package revision
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 25 Feb 2010 18:34:48 +0200
+
+osso-icons (2.5.0) unstable; urgency=low
+
+    * New icons for Facebook.
+    * Fixes: NB#157601
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Tue, 23 Feb 2009 09:32:11 +0200
+
+osso-icons (2.4.6) unstable; urgency=low
+
+    * New set of icons.
+    * Fixes: NB#153231,NB#140695,NB#140790,NB#142445,NB#142554,NB#142786,NB#143896,NB#145995,NB#117932,NB#146092,NB#151253
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Fri, 05 Feb 2009 09:32:11 +0200
+
+osso-icons (2.4.5) unstable; urgency=low
+
+    * New set of icons.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Tue, 26 Jan 2009 10:32:11 +0200
+
+osso-icons (2.4.4) unstable; urgency=low
+
+    * New set of icons.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 16 Jan 2009 10:32:11 +0200
+
+osso-icons (2.4.3) unstable; urgency=low
+
+    * New mediaplayer now playing icons.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Tue, 15 Dec 2009 10:32:11 +0200
+
+osso-icons (2.4.2) unstable; urgency=low
+
+    * Testing.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Mon, 14 Dec 2009 10:32:11 +0200
+
+osso-icons (2.4.1) unstable; urgency=low
+
+    * Fixes: NB#150458,NB#150461
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Mon, 07 Dec 2009 10:32:11 +0200
+
+osso-icons (2.4.0) unstable; urgency=low
+
+    * Fixes: NB#140749
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Mon, 23 Nov 2009 10:32:11 +0200
+
+osso-icons (2.3.9) unstable; urgency=low
+
+    * Fixes: NB#145245, NB#144096
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 11 Nov 2009 10:32:11 +0200
+
+osso-icons (2.3.8) unstable; urgency=low
+
+    * Fixes: NB#140234
+    * New icon added. general_speaker.png 32x32. 
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 23 Sep 2009 10:32:11 +0300
+
+osso-icons (2.3.7) unstable; urgency=low
+
+    * Fixes: NB#139211
+    * Comes with a working no-sim icon.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Mon, 21 Sep 2009 12:32:11 +0300
+
+osso-icons (2.3.6) unstable; urgency=low
+
+    * Refreshes icons.
+    * Fixes: NB#139211
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Fri, 18 Sep 2009 17:32:11 +0300
+
+osso-icons (2.3.5) unstable; urgency=low
+
+    * Refreshes icons.
+    * Fixes: NB#134637
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 26 Aug 2009 10:13:11 +0300
+
+osso-icons (2.3.4) unstable; urgency=low
+
+    * Fixes: NB#132922, NB#131469, NB#131475, NB#129563, NB#133420, NB#134092, NB#134109, NB#134137
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Fri, 21 Aug 2009 10:13:11 +0300
+
+osso-icons (2.3.3) unstable; urgency=low
+
+    * Removes old icons from the package.
+    * Fixes: NB#127983
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 12 Aug 2009 13:13:11 +0300
+
+osso-icons (2.3.2) unstable; urgency=low
+
+    * Reverted to old versions of three email icons.
+    * Fixes: NB#132052
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Fri, 07 Aug 2009 18:13:11 +0300
+
+osso-icons (2.3.1) unstable; urgency=low
+
+    * Refreshes icons.
+    * Fixes: NB#128458, NB#125269
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Tue, 04 Aug 2009 10:13:11 +0300
+
+osso-icons (2.3.0) unstable; urgency=low
+
+    * Refreshes icons.
+    * Fixes: NB#127447
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Fri, 11 Jul 2009 10:13:11 +0300
+
+osso-icons (2.2.43) unstable; urgency=low
+
+    * Refreshes icons.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 01 Jul 2009 10:13:11 +0300
+
+osso-icons (2.2.42) unstable; urgency=low
+
+    * Refreshes icons.
+    * Fixes: NB#122380, NB#124466
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Tue, 30 Jun 2009 10:13:11 +0300
+
+osso-icons (2.2.41) unstable; urgency=low
+
+    * Refreshes icons.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Mon, 22 Jun 2009 10:13:11 +0300
+
+osso-icons (2.2.40) unstable; urgency=low
+
+    * Refreshes icons.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Fri, 12 Jun 2009 10:13:11 +0300
+
+osso-icons (2.2.39) unstable; urgency=low
+
+    * Refreshes icons.
+    * Fixes: NB#118437, NB#118357
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 04 Jun 2009 19:14:11 +0300
+
+osso-icons (2.2.38) unstable; urgency=low
+
+    * Refreshes icons.
+    * Fixes: NB#113926, NB#105946, NB#115355
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Mon, 25 May 2009 09:53:11 +0300
+
+osso-icons (2.2.37) unstable; urgency=low
+
+    * Changes in icon sizes. 12x12 to 14x14, 16x12 to 18x11, 
+    * 16x20 to 18x25, 16x32 to 18x36 and additional 18x18.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 13 May 2009 10:18:11 +0300
+
+osso-icons (2.2.36) unstable; urgency=low
+
+    * Lots of changes. Adds a lot of 'pressed' icons.
+    * Modifies a few and removes mediaplayer_default_playlist.png
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Tue, 05 May 2009 10:18:11 +0300
+
+osso-icons (2.2.35) unstable; urgency=low
+
+    * sharing_flickr.png modified.
+    * clock_worldmap_time_chooser.png changed into .jpg. Fixes clock crash, affects cache as well.
+    * adds general_default_avatar.png
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Tue, 28 Apr 2009 13:18:11 +0300
+
+osso-icons (2.2.34) unstable; urgency=low
+
+    * Backup icon changed from tasklauncher_backup to general_backup
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Fri, 17 Mar 2009 12:14:11 +0300
+
+osso-icons (2.2.33) unstable; urgency=low
+
+    * New set of icons. Old ones are still there.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 15 Mar 2009 11:42:11 +0300
+
+osso-icons (2.2.32) unstable; urgency=low
+
+    * New set of icons. Keeps the old ones.
+    * Fixes: NB#95259
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Tue, 08 Mar 2009 13:42:11 +0300
+
+osso-icons (2.2.31) unstable; urgency=low
+
+    * New set of icons.
+    
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Tue, 07 Mar 2008 14:01:11 +0300
+
+osso-icons (2.2.30) unstable; urgency=low
+
+    * New set of icons.
+    
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Mon, 06 Mar 2008 14:43:11 +0300
+
+osso-icons (2.2.27) unstable; urgency=low
+
+    * More tweaks in mimetypes.
+    
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 25 Mar 2008 15:27:11 +0200
+
+osso-icons (2.2.26) unstable; urgency=low
+
+    * Removes old icons
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 25 Mar 2008 11:58:11 +0200
+
+osso-icons (2.2.25) unstable; urgency=low
+
+    * New set of icons.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 18 Mar 2008 15:58:11 +0200
+
+osso-icons (2.2.24) unstable; urgency=low
+
+    * Fixes: NB#101163, NB#102032
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 11 Mar 2008 17:58:11 +0200
+
+osso-icons (2.2.23) unstable; urgency=low
+
+    * Refresh icons.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 05 Mar 2008 10:37:11 +0200
+
+osso-icons (2.2.22) unstable; urgency=low
+
+    * Refresh icons.
+    * 16x22 changed to 16x20
+    * 16x10 changed to 16x12
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 26 Feb 2008 10:00:11 +0200
+
+osso-icons (2.2.21) unstable; urgency=low
+
+    * Refresh icons.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 18 Feb 2008 13:30:11 +0200
+
+osso-icons (2.2.20) unstable; urgency=low
+
+    * Fixes: NB#97845,NB#101448
+    
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 11 Feb 2008 18:00:11 +0200
+
+osso-icons (2.2.19) unstable; urgency=low
+
+    * Refreshing the icons.
+    
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 05 Feb 2008 10:57:11 +0200
+
+osso-icons (2.2.18) unstable; urgency=low
+
+    * Refreshing the icons.
+    
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 29 Jan 2008 10:19:11 +0200
+
+osso-icons (2.2.17) unstable; urgency=low
+
+    * Refreshing the icons.
+    
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 21 Jan 2008 18:20:05 +0200
+
+osso-icons (2.2.16) unstable; urgency=low
+
+    * Refreshing the icons.
+    
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 15 Jan 2008 10:31:05 +0200
+
+osso-icons (2.2.15) unstable; urgency=low
+
+    * Fixed symlinks. Again. Refreshed iconslist. Retry.
+    
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 17 Dec 2008 18:31:05 +0200
+
+osso-icons (2.2.14) unstable; urgency=low
+
+    * Fixed symlinks. Again. Refreshed iconslist.
+    
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 17 Dec 2008 17:38:51 +0200
+
+osso-icons (2.2.13) unstable; urgency=low
+
+    * Fixed symlinks
+    
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 15 Dec 2008 17:20:47 +0200
+
+osso-icons (2.2.12) unstable; urgency=low
+
+    * Updates Icons
+    
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 11 Dec 2008 10:10:11 +0200
+
+osso-icons (2.2.10) unstable; urgency=low
+
+    * Updates Icons
+    
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 04 Dec 2008 10:25:39 +0200
+
+osso-icons (2.2.9) unstable; urgency=low
+
+    * New icon naming convention, plus old icons for development purposes.
+    * Fixes: NB#92074
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 27 Nov 2008 10:41:19 +0200
+
+osso-icons (2.2.8) unstable; urgency=low
+
+    * New icon naming convention, plus old icons for development purposes.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 20 Nov 2008 10:09:22 +0200
+
+osso-icons (2.2.7) unstable; urgency=low
+
+    * New icon naming convention, plus old icons for development purposes.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 05 Nov 2008 10:49:00 +0300
+
+osso-icons (2.2.6) unstable; urgency=low
+
+    * New icon naming convention.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 08 Oct 2008 13:06:00 +0300
+
+osso-icons (2.2.5) unstable; urgency=low
+
+    * Fixed copyright text.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 10 Sep 2008 12:39:00 +0300
+

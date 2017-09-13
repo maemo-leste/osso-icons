@@ -1,0 +1,9 @@
+#! /bin/sh
+
+echo "Updating icon cache..."
+gtk-update-icon-cache -f /usr/share/icons/hicolor
+
+
+
+exit 0
+
