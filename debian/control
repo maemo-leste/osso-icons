@@ -1,5 +1,6 @@
 Source: osso-icons
 Maintainer: Alexander Kanevskiy <alexander.kanevskiy@nokia.com>
+Section: misc
 Build-Depends: debhelper (>= 5)
 
 Package: osso-icons-default
