@@ -1,3 +1,9 @@
+osso-icons (2.5.1) unstable; urgency=medium
+
+  * New icon for 4G
+
+ -- Sicelo A. Mhlongo <absicsz@gmail.com>  Tue, 06 Aug 2019 10:21:34 +0200
+
 osso-icons (2.5.0) unstable; urgency=medium
 
   * import to git
