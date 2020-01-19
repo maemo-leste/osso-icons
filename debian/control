@@ -2,12 +2,13 @@ Source: osso-icons
 Maintainer: Alexander Kanevskiy <alexander.kanevskiy@nokia.com>
 Section: misc
 Priority: optional
-Build-Depends: debhelper (>= 5)
+Build-Depends: debhelper (>= 10)
 
 Package: osso-icons-default
 Section: x11
 Priority: optional
 Architecture: all
+Multi-Arch: foreign
 Depends: libgtk2.0-bin (>= 2:2.6.4)
 Conflicts: hildon-icons, hildon-icons-hicolor, osso-icons-devel, osso-icons-theme, hicolor-icon-theme
 Replaces: hildon-icons, hildon-icons-hicolor, osso-icons-devel, osso-icons-theme, hicolor-icon-theme
