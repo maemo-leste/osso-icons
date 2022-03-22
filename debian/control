@@ -13,5 +13,4 @@ Depends: libgtk2.0-bin (>= 2:2.6.4)
 Conflicts: hildon-icons, hildon-icons-hicolor, osso-icons-devel, osso-icons-theme, hicolor-icon-theme
 Replaces: hildon-icons, hildon-icons-hicolor, osso-icons-devel, osso-icons-theme, hicolor-icon-theme
 Provides: hildon-icons, hildon-icons-hicolor, osso-icons, osso-icons-theme, hicolor-icon-theme
-Source: osso-icons
 Description: OSSO UI icons
